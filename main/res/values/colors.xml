@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="normalBlue">#0163b3</color>
+    <color name="lightBlue">#f1f1f4</color>
+
+    <color name="screen1">#b12515</color>
+    <color name="screen2">#FFBB00</color>
+    <color name="screen3">#74a443</color>
+    <color name="screen4">#cccccc</color>
+
+
+    <color name="dot_active">#000000</color>
+    <color name="dot_inactive">#cccccc</color>
+
+</resources>

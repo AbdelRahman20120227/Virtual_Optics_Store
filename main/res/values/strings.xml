@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Ultimate Vision</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="WelcomeText">Virtual Optics Store</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_store">Store</string>
+
+    <string-array name="filter">
+        <item>No Filter</item>
+        <item>By Brand</item>
+        <item>By Price</item>
+        <item>By Shape</item>
+        <item>Combinations</item>
+    </string-array>
+
+    <string-array name="brands">
+        <item>Rayban</item>
+        <item>Gucci</item>
+        <item>Armani</item>
+    </string-array>
+
+    <string name="title_activity_glasses_details">Glasses Details</string>
+    <string name="title_activity_recommendations">recommendations</string>
+
+    <string name="recommended">Recommended for you</string>
+    <string name="store">Store</string>
+    <string name="Account">Account</string>
+    <string name="Accounts">Account Settings</string>
+    <string name="Logout">Logout</string>
+    <string name="title_activity_account">Update Profile</string>
+    <string name="virtual">Virtual Optics Store</string>
+    <string name="Select_brand">Select Brand:</string>
+    <string name="low">Greater than</string>
+    <string name="high">Less than</string>
+    <string name="filter">Filter</string>
+    <string name="filter1">Filter By </string>
+    <string name="price">Price </string>
+    <string name="brand">Brand </string>
+    <string name="REGISTER">Register</string>
+    <string name="tab_1">Recommendations</string>
+    <string name="tab_2">Store</string>
+    <string name="tab_3">Favorites</string>
+    <string name="title_activity_filter_by_brand">FilterByBrand</string>
+    <string name="title_activity_filter_by_price">FilterByPrice</string>
+    <string name="title_activity_filter_both">FilterBoth</string>
+    <string name="title_activity_home_page">Home Page</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_slide1">SunGlasses Store</string>
+    <string name="desc_slide1">It will be list of sunglasses from store to allow you to browse and choose from them. </string>
+    <string name="title_slide2">Recommendations List</string>
+    <string name="desc_slide2">It will be list of recommended sunglasses after login for just the authorized users</string>
+    <string name="title_slide3">Front Camera</string>
+    <string name="desc_slide3">After view glasses details and enter Try it button the front camera will be open and you will see
+        the selected glasses on your face</string>
+
+</resources>
